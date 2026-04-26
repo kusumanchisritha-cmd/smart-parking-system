@@ -55,7 +55,7 @@ export function walkingDistance(slotId: number, dest: Destination): number {
 
 // ----- Backend wiring ---------------------------------------------------
 
-const API_URL = "https://smart-parking-backend-c90k.onrender.com";
+const API_URL = "http://10.2.16.47:10000";
 
 interface RawParkResult {
   slot?: number;
