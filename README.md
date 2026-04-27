@@ -49,7 +49,7 @@ git clone https://github.com/your-username/smart-parking-system
 
 cd backend
 pip install -r requirements.txt
-python app.py
+py app.py
 
 Backend runs on:
 http://127.0.0.1:10000
